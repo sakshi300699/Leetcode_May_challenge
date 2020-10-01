@@ -1,15 +1,14 @@
 class Solution {
 public:
     int numJewelsInStones(string J, string S) {
-     int c=0;
-        for(int i=0;i<S.length();i++){
-          for(int j=0;j<J.length();j++){
-            if(S[i]==J[j]){
-              c++;
-            }
-          }
+        int fre[128]={0};
+        int count=0;
+        for(auto x:S){
+            fre[x-'0']++;
         }
-        
-        return c;
+        for(auto x:J){
+            count+=fre[x-'0'];
+        }
+        return count;
     }
 };
