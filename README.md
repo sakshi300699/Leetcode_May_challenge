@@ -18,4 +18,10 @@ Problem 6 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge
 
 Problem 7 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/
 
-Problrm 8 - 
+Problem 8 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/
+
+Problem 9 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/
+
+Problem 10 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/
+
+Problem 11 - 
