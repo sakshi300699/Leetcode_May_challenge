@@ -14,4 +14,6 @@ Problem 4 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge
 
 Problem 5 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/
 
-Problem 6 -
+Problem 6 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/
+
+Problem 7 - 
