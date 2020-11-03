@@ -59,3 +59,5 @@ Problem 26 - https://leetcode.com/explore/challenge/card/may-leetcoding-challeng
 Problem 27 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/
 
 Problem 28 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/
+
+Problem 29 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/
